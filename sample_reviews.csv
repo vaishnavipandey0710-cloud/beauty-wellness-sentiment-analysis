@@ -1,0 +1,21 @@
+review_id,product_name,category,rating,review_text,example_aspect
+R001,Daily Moisturiser,Skincare,5,"lightweight texture and absorbs quickly, my skin feels soft",texture
+R002,Daily Moisturiser,Skincare,4,"good value and pleasant texture, packaging could be better",value
+R003,Daily Moisturiser,Skincare,2,strong fragrance and the container leaked,fragrance
+R004,Gentle Cleanser,Skincare,5,"gentle cleanser, leaves my face feeling fresh",suitability
+R005,Gentle Cleanser,Skincare,4,cleans well and does not feel drying,effectiveness
+R006,Gentle Cleanser,Skincare,1,too harsh and left a tight feeling after washing,suitability
+R007,Hydrating Serum,Skincare,5,absorbs quickly and feels hydrating,texture
+R008,Hydrating Serum,Skincare,3,"average results for the price, dropper is awkward",value
+R009,Hydrating Serum,Skincare,2,sticky texture and expensive for the amount,texture
+R010,Daily Sunscreen,Skincare,4,"easy to spread, but leaves a white cast",texture
+R011,Daily Sunscreen,Skincare,2,greasy finish and strong smell,fragrance
+R012,Daily Sunscreen,Skincare,5,comfortable to wear and packaging is convenient,packaging
+R013,Lip Balm,Cosmetics,5,smooth texture and good value,value
+R014,Lip Balm,Cosmetics,3,"fine product, but the scent is too strong",fragrance
+R015,Lip Balm,Cosmetics,2,hard to apply and the tube cap broke,packaging
+R016,Hand Cream,Body Care,4,softening feel and absorbs well,texture
+R017,Hand Cream,Body Care,1,greasy and unpleasant fragrance,fragrance
+R018,Hand Cream,Body Care,5,pleasant texture and good price,value
+R019,Shampoo,Hair Care,4,"leaves hair feeling clean, bottle is easy to use",packaging
+R020,Shampoo,Hair Care,2,drying effect and difficult to rinse,effectiveness
